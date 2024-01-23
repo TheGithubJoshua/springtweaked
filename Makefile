@@ -1,6 +1,6 @@
 TARGET := iphone:clang:latest:7.0
 INSTALL_TARGET_PROCESSES = SpringBoard
-
+THEOS_DEVICE_IP = 192.168.50.31
 
 include $(THEOS)/makefiles/common.mk
 
