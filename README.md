@@ -1,2 +1,2 @@
-# springtweaked
-Some subtle but neccessary Springboard tweaks.
+# Springtweaked
+Some subtle but necessary Springboard tweaks.
