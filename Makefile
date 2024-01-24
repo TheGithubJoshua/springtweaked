@@ -6,6 +6,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Springtweaked
 
+Springtweaked_FRAMEWORKS = Foundation AudioToolbox
 Springtweaked_FILES = Tweak.x
 Springtweaked_CFLAGS = -fobjc-arc
 
